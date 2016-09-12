@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Screencast ChangeLog</title>
+<link>https://github.com/soh335/Screencast</link>
+
+<item>
+<title>Screencast Version 0.0.1</title>
+<description>
+<![CDATA[
+* initial release
+]]>
+</description>
+<pubDate>Mon, 12 Sep 2016 22:38:10 +0900</pubDate>
+<enclosure url="https://github.com/soh335/Screencast/releases/download/0.0.1/Screencast.dmg" sparkle:version="1" sparkle:shortVersionString="0.0.1" length="8899450" type="application/octet-stream" sparkle:dsaSignature="MC0CFQC7PTUVqrbYX0LSFVQ2Qjz9DZLzCQIULYvP7HEaeDsAQXoQKttCjFyFgWk=" />
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+</item>
+</channel>
+</rss>
