@@ -5,14 +5,16 @@
 <link>https://github.com/soh335/Screencast</link>
 
 <item>
-<title>Screencast Version 0.0.4</title>
+<title>Screencast Version 0.0.5</title>
 <description>
 <![CDATA[
-* minor fix
+<pre>
+* When hit space key, select window under cursor.
+</pre>
 ]]>
 </description>
-<pubDate>Tue, 13 Sep 2016 22:26:39 +0900</pubDate>
-<enclosure url="https://github.com/soh335/Screencast/releases/download/0.0.4/Screencast.dmg" sparkle:version="4" sparkle:shortVersionString="0.0.4" length="8900247" type="application/octet-stream" sparkle:dsaSignature="MC0CFC+OP735eAzGazPNt8jDINRO7WH/AhUAuA1ODfxue0LU1Ly6sd8OEplc36g=" />
+<pubDate>Wed, 19 Oct 2016 11:30:31 +0900</pubDate>
+<enclosure url="https://github.com/soh335/Screencast/releases/download/0.0.5/Screencast.dmg" sparkle:version="5" sparkle:shortVersionString="0.0.5" length="10826901" type="application/octet-stream" sparkle:dsaSignature="MCwCFAOfB5LW7eIp1Tldz6OWqp5dtEF6AhRPnxoAblw/JUm4tSZBS1wXKvCXww==" />
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
 </item>
 </channel>
