@@ -5,16 +5,17 @@
 <link>https://github.com/soh335/Screencast</link>
 
 <item>
-<title>Screencast Version 0.0.5</title>
+<title>Screencast Version 0.0.6</title>
 <description>
 <![CDATA[
 <pre>
-* When hit space key, select window under cursor.
+* Quit button in status bar menu
+* Open Finder when completed ( optional )
 </pre>
 ]]>
 </description>
-<pubDate>Wed, 19 Oct 2016 11:30:31 +0900</pubDate>
-<enclosure url="https://github.com/soh335/Screencast/releases/download/0.0.5/Screencast.dmg" sparkle:version="5" sparkle:shortVersionString="0.0.5" length="10826901" type="application/octet-stream" sparkle:dsaSignature="MCwCFAOfB5LW7eIp1Tldz6OWqp5dtEF6AhRPnxoAblw/JUm4tSZBS1wXKvCXww==" />
+<pubDate>Mon, 7 Nov 2016 00:34:38 +0900</pubDate>
+<enclosure url="https://github.com/soh335/Screencast/releases/download/0.0.6/Screencast.dmg" sparkle:version="6" sparkle:shortVersionString="0.0.6" length="9829513" type="application/octet-stream" sparkle:dsaSignature="MC4CFQC1T8yoEbvmM3v4h+jI6lDPO6AJTAIVAJG2mzNbXrxvizE7GaOQP6NBVX+n" />
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
 </item>
 </channel>
