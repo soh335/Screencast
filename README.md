@@ -9,3 +9,7 @@ Simple screencast application for macOS. Download Screencast.dmg from [releases]
 * mov
 * mp4
 * gif
+
+## Required
+
+* 10.11 or later
